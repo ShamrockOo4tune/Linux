@@ -1,0 +1,18 @@
+Package: nginx
+Version: 1.18.0-1~focal
+Priority: optional
+Section: httpd
+Maintainer: Sergey Budnevitch <sb@nginx.com>
+Installed-Size: 3,058 kB
+Provides: httpd
+Depends: libc6 (>= 2.28), libcrypt1 (>= 1:4.1.0), libpcre3, libssl1.1 (>= 1.1.1), zlib1g (>= 1:1.1.4), lsb-base (>= 3.0-6), adduser
+Conflicts: nginx-common, nginx-core
+Replaces: nginx-common, nginx-core
+Homepage: http://nginx.org
+Download-Size: 857 kB
+APT-Manual-Installed: yes
+APT-Sources: http://nginx.org/packages/ubuntu focal/nginx amd64 Packages
+Description: high performance web server
+ nginx [engine x] is an HTTP and reverse proxy server, as well as
+ a mail proxy server.
+
