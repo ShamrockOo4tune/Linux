@@ -1,0 +1,7 @@
+Name                       Version                     Rev    Tracking       Publisher   Notes
+core18                     20200724                    1885   latest/stable  canonical*  base
+gnome-3-28-1804            3.28.0-17-gde3d74c.de3d74c  128    latest/stable  canonical*  -
+gtk-common-themes          0.1-36-gc75f853             1506   latest/stable  canonical*  -
+lxd                        4.0.3                       16922  4.0/stable/…   canonical*  -
+mysql-workbench-community  8.0.21                      6      latest/stable  tonybolzan  -
+snapd                      2.45.3.1                    8790   latest/stable  canonical*  snapd
